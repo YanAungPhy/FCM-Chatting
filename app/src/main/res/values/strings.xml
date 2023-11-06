@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">ChatApplication</string>
+    <string name="web_default_client">AIzaSyC3f52fG2JPbgDAnmcyP8vRW8OOKyCwxYY</string>
+    <string name="message">Message</string>
+    <string name="enter_search_user_nickname">Enter search user nickname</string>
+
+</resources>
